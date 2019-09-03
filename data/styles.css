@@ -1,0 +1,244 @@
+﻿.ax_default {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._形状 {
+}
+._图片 {
+}
+.checkbox {
+  text-align:left;
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._一级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+._流程形状 {
+}
+.box_1 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#3399FF;
+}
+.box_3 {
+}
+.box_11 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+.ellipse {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+}
+._形状1 {
+}
+._图片1 {
+  color:#000000;
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状2 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+.box_12 {
+}
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Microsoft YaHei UI Bold', 'Microsoft YaHei UI Regular', 'Microsoft YaHei UI';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.shape {
+}
+.box_2 {
+}
+.ellipse1 {
+}
+.image {
+  color:#000000;
+}
+.vertical_line {
+}
+.iconfont {
+  font-family:'iconfont Regular', 'iconfont';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.html_button {
+  text-align:center;
+}
+._文本段落2 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+._水平线 {
+}
+._垂直线 {
+}
+.paragraph1 {
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._一级标题1 {
+  font-family:'Microsoft YaHei UI';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.box_21 {
+}
+.icon {
+}
+.marker {
+  color:#FFFFFF;
+}
+.box_13 {
+}
+.table_cell {
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
